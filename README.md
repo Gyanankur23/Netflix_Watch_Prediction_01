@@ -1,4 +1,4 @@
-#  Netflix Watch Prediction – CaseCraft Analytics Sprint Project 1
+#  Netflix Watch Prediction – CaseCraft Analytics Project Sprint Project 1
 
 ## 🔍 Overview  
 This project simulates a Netflix-style recommendation scenario, focusing on user watch behavior across genres, time slots, and devices. It blends exploratory data analysis with predictive modeling to estimate content liking, offering a hands-on dive into consumer analytics.
@@ -38,3 +38,8 @@ To analyze and model user watch behavior using genre preferences, time of day, a
 4. **Device-Genre Match**: Drama and Thriller preferred on TV; Comedy on mobile.  
 5. **Time-Based Duration**: Evening sessions show longest engagement.  
 6. **Model Utility**: Genre, device, and time of day are useful predictors, though nonlinear models may improve accuracy.
+
+## ✅ Final Conclusion  
+The Netflix Watch Prediction dashboard offers a clarity-first framework for understanding viewer behavior and content engagement. By combining genre, device, and time-of-day features, it uncovers actionable patterns in watch duration and content liking. While the logistic regression model provides a strong baseline—especially with high recall—future iterations could benefit from nonlinear models to capture deeper behavioral nuances.
+
+This project balances strategic insight with modular design, making it ideal for deployment in recommendation systems, viewer segmentation, and content strategy. Its reproducible structure and visual storytelling make it a strong candidate for portfolio inclusion and cross-platform adaptation.
